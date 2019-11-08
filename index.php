@@ -8,7 +8,15 @@
 </head>
 <body>
     <?php
-    echo 'how did i get here'
+    $text = 'this is that text';
+    $randomNum = random_int(1, 20);
+    
+    echo 'how did i get here. ';
+
+
+    echo $text;
+
+    echo $randomNum
     ?>
 </body>
 </html>
