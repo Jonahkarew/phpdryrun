@@ -7,7 +7,7 @@
     <title><?php echo $title ?></title>
 </head>
 <body>
-
+    <h1>Here is the main part</h1>
 
 
 
